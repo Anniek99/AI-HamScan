@@ -12,8 +12,8 @@ I tore my hamstring playing hockey. Ultrasound is the first test for muscle inju
 - **Two models in a row:** the first grades the tear (No lesion, Grade 1, Grade 2, Grade 3/4); the second identifies the muscle (BF, ST, SM).
 
 ## Try the models
-- Tear grade model: [https://teachablemachine.withgoogle.com/models/RrrtHRP7_A/]
-- Muscle model: [https://teachablemachine.withgoogle.com/models/dmXXlMcowL/]
+- Tear grade model: https://teachablemachine.withgoogle.com/models/RrrtHRP7_A/
+- Muscle model: https://teachablemachine.withgoogle.com/models/dmXXlMcowL/
 
 ## Data
 No hamstring ultrasound database existed, so I built one. I cold-emailed 200+ radiologists and sports-medicine doctors (the best replies came from Australia and France) and pulled frames from teaching webinars, for 800+ images total. Two radiologists taught me to grade tears and checked my labels. 
